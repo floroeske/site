@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flo</title>
-    <link>/</link>
+    <link>https://floroeske.github.io/site/</link>
     <description>Recent content on flo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Feb 2021 13:23:35 +1300</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://floroeske.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/about/</link>
+      <link>https://floroeske.github.io/site/about/about/</link>
       <pubDate>Tue, 09 Feb 2021 13:23:35 +1300</pubDate>
       
-      <guid>/about/about/</guid>
+      <guid>https://floroeske.github.io/site/about/about/</guid>
       <description></description>
     </item>
     
