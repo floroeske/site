@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>flo</title>
+    <title>Home on flo&#39;s site</title>
     <link>https://floroeske.github.io/site/</link>
-    <description>Recent content on flo</description>
+    <description>Recent content in Home on flo&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Feb 2021 13:23:35 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 15:39:35 +1300</lastBuildDate>
     
 	<atom:link href="https://floroeske.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://floroeske.github.io/site/projects/my-first-post/</link>
+      <pubDate>Tue, 09 Feb 2021 16:10:15 +1300</pubDate>
+      
+      <guid>https://floroeske.github.io/site/projects/my-first-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>

@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://floroeske.github.io/site/</loc>
+    <lastmod>2021-02-11T15:39:35+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://floroeske.github.io/site/projects/my-first-post/</loc>
+    <lastmod>2021-02-09T16:10:15+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://floroeske.github.io/site/projects/</loc>
+    <lastmod>2021-02-09T16:10:15+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://floroeske.github.io/site/about/about/</loc>
     <lastmod>2021-02-09T13:23:35+13:00</lastmod>
   </url>
   
   <url>
     <loc>https://floroeske.github.io/site/about/</loc>
-    <lastmod>2021-02-09T13:23:35+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://floroeske.github.io/site/</loc>
     <lastmod>2021-02-09T13:23:35+13:00</lastmod>
   </url>
   
